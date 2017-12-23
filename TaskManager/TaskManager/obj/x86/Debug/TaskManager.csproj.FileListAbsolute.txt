@@ -1,0 +1,9 @@
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\TaskManager.Form1.resources
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb

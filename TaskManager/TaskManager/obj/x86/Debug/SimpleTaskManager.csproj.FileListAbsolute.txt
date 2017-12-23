@@ -1,0 +1,27 @@
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Form1.resources
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csproj.GenerateResource.Cache
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb
+C:\Users\Михаил\Downloads\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\TaskManager.Form1.resources
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.exe
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\bin\Debug\SimpleTaskManager.pdb
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\TaskManager.Form1.resources
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.Properties.Resources.resources
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.exe
+C:\Users\Михаил\Desktop\SimpleTaskManager\SimpleTaskManager\obj\x86\Debug\SimpleTaskManager.pdb
